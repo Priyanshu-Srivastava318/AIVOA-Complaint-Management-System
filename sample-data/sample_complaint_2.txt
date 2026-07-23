@@ -1,0 +1,19 @@
+Complaint logged via Customer Portal
+Customer: Horizon Life Sciences Ltd.
+Date of Complaint: 2026-07-20
+
+Product: Metformin Hydrochloride API
+Strength/Grade: USP Grade, 99.1% assay
+Batch/Lot Number: MET-A5510
+Manufacturing Date: 2026-01-05
+Expiry Date: 2029-01-04
+Quantity Affected: 25 kg (1 drum)
+
+Complaint Type: Packaging Defect
+
+Description:
+Upon receipt, the customer found that the inner liner of one drum (Drum #4 of 12)
+was torn near the seal, and desiccant packets inside appeared saturated, suggesting
+possible moisture ingress during transit. The customer has quarantined the drum and
+is requesting a replacement along with root cause analysis on the packaging failure.
+No product has been used from the affected drum.
